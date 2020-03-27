@@ -1,5 +1,6 @@
 # Simulated data sets for classification
 
+![Simulated data sets for classification](sim_100.png)
 
 ## Introduction 
 
