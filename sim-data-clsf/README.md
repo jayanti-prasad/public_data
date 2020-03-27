@@ -14,7 +14,8 @@ recall, area under ROC curve etc., which are also important).
 
 Every classification algorithm that has been implemented in scikit-learn 
 has multiple choices - mostly about regularization, optimization method
-and hyper-parameter used. Keeping all these factors in mind there is no point 
+and the choice of hyper-parameters. 
+Keeping all these factors in mind there is no point 
 in trying  any algorithm for a standard data set in order to understand the 
 merits/demerits of a classifier or compare different classifiers and the only 
 way out is simulations.
