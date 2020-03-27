@@ -5,18 +5,19 @@
 
 Classification is one of the most important problems in machine learning 
 and there are multiple public data sets, algorithms and frameworks available.
-The most common and use friendly framework is scikit-learn. 
+The most common and user  friendly framework is scikit-learn. 
 
 This is far from clear that which of the algorithms is the best for 
-a given data set. In fact it is also not clear what we mean by best
+a given data set. In fact it is also not clear what we mean by 'the best'
 (apart from accuracy there are many other matrices such as precision,
 recall, area under ROC curve etc., which are also important). 
 
 Every classification algorithm that has been implemented in scikit-learn 
-has multiple choices - mostly about regularization and the optimization method
-used. Keeping all these factors in mind there is no point in trying 
-any algorithm for a standard data set in order to understand the merits/demerits
-of a classifier and the only way out is simulations.
+has multiple choices - mostly about regularization, optimization method
+and hyper-parameter used. Keeping all these factors in mind there is no point 
+in trying  any algorithm for a standard data set in order to understand the 
+merits/demerits of a classifier or compare different classifiers and the only 
+way out is simulations.
 
 ## Data sets 
 
