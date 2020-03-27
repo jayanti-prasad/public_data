@@ -17,13 +17,13 @@ Every classification algorithm that has been implemented in scikit-learn
 has multiple choices - mostly about regularization, optimization method
 and the choice of hyper-parameters. 
 Keeping all these factors in mind there is no point 
-in trying  any algorithm for a standard data set in order to understand the 
-merits/demerits of a classifier or compare different classifiers and the only 
+in trying  any algorithm/classifier  for a standard data set in order to understand the 
+merits/demerits of the classifier or compare different classifiers so the only 
 way out is simulations.
 
 ## Data sets 
 
-Here I have a set of synthetic (simulated) data sets that can be used to
+Here I am posting a set of synthetic (simulated) data sets which can be used to
 understand the working of a classifier and compare different classifiers. 
 In order to make the problem I have consider data sets (for binary classification)
 with the following structures.
